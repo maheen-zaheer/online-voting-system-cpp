@@ -1,0 +1,20 @@
+# Build folders
+bin/
+obj/
+Debug/
+Release/
+
+# Executables
+*.exe
+*.o
+*.obj
+
+# Code::Blocks
+*.depend
+*.layout
+
+# Visual Studio
+.vs/
+
+# Temporary files
+*.tmp
