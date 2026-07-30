@@ -26,6 +26,27 @@ The system simulates an election process by allowing users to register as voters
 * Persistent File Storage
 
 ---
+## 📸 Screenshots
+
+### Main Menu
+
+![Main Menu](Pics/1.png)
+
+### Registration / Login
+
+![Registration](Pics/2.png)
+
+### Voting Interface
+
+![Voting](Pics/3.png)
+
+### Admin Panel
+
+![Admin](Pics/4.png)
+
+### Election Result
+
+![Result](Pics/5.png)
 
 ##  Technologies
 
