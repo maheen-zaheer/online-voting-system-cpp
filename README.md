@@ -13,7 +13,16 @@ The Online Voting System is a console-based application developed as part of a u
 The system simulates an election process by allowing users to register as voters, authenticate themselves, cast votes securely, and enables administrators to manage candidates and declare election results.
 
 ---
+##  Learning Outcomes
 
+This project strengthened my understanding of:
+
+- Object-Oriented Programming in C++
+- Data Structures and Algorithms
+- File Handling
+- Software Testing and Debugging
+- Collaborative Software Development
+  
 ##  Features
 
 * Voter Registration
